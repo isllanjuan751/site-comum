@@ -1,0 +1,23 @@
+body {
+    background-image: linear-gradient(to left, black, white);
+}
+
+#Texto_Principal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: darkviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+
+.Principal {
+    padding: 10px 0px 0px 30px;
+}
+
+.Textos {
+    margin: 1px 0px 0px 0px;
+    color:darkslategrey;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
